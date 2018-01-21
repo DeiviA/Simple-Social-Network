@@ -1,4 +1,6 @@
-# SnApp
+<a href="http://simple-social-network.pe.hu/">Preview this project</a>
+
+# Simple-Social-Network
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
 
